@@ -1,0 +1,11 @@
+modLoader="javafml"
+loaderVersion="[37,)"
+license="Lesser GNU Public License v2.1"
+[[mods]]
+modId="paintblocks"
+version="${file.jarVersion}"
+displayName="Paint Blocks"
+logoFile="logo.png"
+credits="TurtyWurty, McJty"
+authors="BWBJustin"
+description="Paint Blocks for your builds"
